@@ -1,0 +1,12 @@
+.header-container {
+  margin: 0 auto;
+  padding: 10px;
+  font-size: 7vw;
+  text-align: center;
+  font-family: "Bebas Neue", cursive;
+  color: #ffebdf;
+  padding-bottom: 0;
+}
+.header-container h1 {
+  padding-bottom: 0;
+}
